@@ -7,3 +7,11 @@ C:\study_wk\github_wk\test_project\test_project\obj\Debug\test_project.Propertie
 C:\study_wk\github_wk\test_project\test_project\obj\Debug\test_project.csproj.GenerateResource.Cache
 C:\study_wk\github_wk\test_project\test_project\obj\Debug\test_project.exe
 C:\study_wk\github_wk\test_project\test_project\obj\Debug\test_project.pdb
+C:\study_wk\github_wk\test_project\test_project\bin\Debug\EntityFramework.dll
+C:\study_wk\github_wk\test_project\test_project\bin\Debug\EntityFramework.SqlServer.dll
+C:\study_wk\github_wk\test_project\test_project\bin\Debug\System.Data.SQLite.dll
+C:\study_wk\github_wk\test_project\test_project\bin\Debug\System.Data.SQLite.EF6.dll
+C:\study_wk\github_wk\test_project\test_project\bin\Debug\System.Data.SQLite.Linq.dll
+C:\study_wk\github_wk\test_project\test_project\bin\Debug\EntityFramework.xml
+C:\study_wk\github_wk\test_project\test_project\bin\Debug\EntityFramework.SqlServer.xml
+C:\study_wk\github_wk\test_project\test_project\bin\Debug\System.Data.SQLite.xml
